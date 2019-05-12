@@ -1,0 +1,26 @@
+<idea-plugin>
+    <id>com.rgomezcasas.gruvbox-ui</id>
+    <name>Gruvbox UI</name>
+    <version>0.0.1</version>
+    <vendor email="rgomezcasas@gmail.com" url="https://github.com/rgomezcasas">Rafa Gómez</vendor>
+
+    <description><![CDATA[
+    Gruvbox UI theme.
+
+    Designed as a bright theme with pastel 'retro groove' colors and light/dark mode switching in the way of solarized. The main focus when developing gruvbox is to keep colors easily distinguishable, contrast enough and still pleasant for the eyes.
+    ]]></description>
+
+    <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+         on how to target different products -->
+    <!-- uncomment to enable plugin in all products -->
+    <depends>com.intellij.modules.lang</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+        <themeProvider id="21e54412-e514-4787-83b8-7f63ccc90eb1" path="/gruvbox_ui.theme.json"/>
+    </extensions>
+
+    <actions>
+        <!-- Add your actions here -->
+    </actions>
+</idea-plugin>
