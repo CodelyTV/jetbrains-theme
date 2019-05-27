@@ -4,7 +4,7 @@ plugins {
 }
 
 group 'com.rgomezcasas'
-version '0.0.1'
+version '0.0.2'
 
 sourceCompatibility = 1.8
 
@@ -18,7 +18,8 @@ dependencies {
 
 // See https://github.com/JetBrains/gradle-intellij-plugin/
 intellij {
-    version '2019.1.1'
+    version '192-EAP-SNAPSHOT'
+    sameSinceUntilBuild false
 }
 patchPluginXml {
     changeNotes """

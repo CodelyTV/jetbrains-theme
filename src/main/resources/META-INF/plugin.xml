@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>com.rgomezcasas.gruvbox-ui</id>
     <name>Gruvbox UI</name>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
     <vendor email="rgomezcasas@gmail.com" url="https://github.com/rgomezcasas">Rafa Gómez</vendor>
 
     <description><![CDATA[
