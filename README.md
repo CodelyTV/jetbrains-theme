@@ -8,6 +8,8 @@
 <p align="center">
   <a href="docs/screenshots.md">Screenshots</a>
   ·
+  <a href="https://plugins.jetbrains.com/plugin/12891-codelytv-theme">JetBrains Plugin</a>
+  ·
   <a href="https://github.com/CodelyTV/jetbrains-theme/issues">Report Bug</a>
   ·
   <a href="https://github.com/CodelyTV/jetbrains-theme/issues">Request Feature</a>
