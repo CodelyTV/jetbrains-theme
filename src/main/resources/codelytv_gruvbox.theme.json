@@ -1,7 +1,7 @@
 {
-  "name": "gruvbox-ui",
+  "name": "CodelyTV - Gruvbox",
   "dark": true,
-  "author": "Rafa Gómez",
+  "author": "CodelyTV",
   "ui": {
     "*": {
       "background": "#282828",

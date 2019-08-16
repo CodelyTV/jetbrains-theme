@@ -1,13 +1,13 @@
 <idea-plugin>
-    <id>com.rgomezcasas.gruvbox-ui</id>
-    <name>Gruvbox UI</name>
-    <version>0.0.2</version>
-    <vendor email="rgomezcasas@gmail.com" url="https://github.com/rgomezcasas">Rafa Gómez</vendor>
+    <id>tv.codely.codelytv-theme</id>
+    <name>CodelyTV Theme</name>
+    <version>1.0.0</version>
+    <vendor email="soporte@codely.tv" url="https://codely.tv">CodelyTV</vendor>
 
     <description><![CDATA[
-    Gruvbox UI theme.
+    CodelyTV Theme.
 
-    Designed as a bright theme with pastel 'retro groove' colors and light/dark mode switching in the way of solarized. The main focus when developing gruvbox is to keep colors easily distinguishable, contrast enough and still pleasant for the eyes.
+    A modern, good-looking, productivity-increaser theme for all JetBrains IDEs
     ]]></description>
 
     <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
@@ -17,7 +17,7 @@
 
     <extensions defaultExtensionNs="com.intellij">
         <!-- Add your extensions here -->
-        <themeProvider id="21e54412-e514-4787-83b8-7f63ccc90eb1" path="/gruvbox_ui.theme.json"/>
+        <themeProvider id="21e54412-e514-4787-83b8-7f63ccc90eb1" path="/codelytv_gruvbox.theme.json"/>
     </extensions>
 
     <actions>

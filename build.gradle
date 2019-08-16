@@ -3,8 +3,8 @@ plugins {
     id 'org.jetbrains.intellij' version '0.4.8'
 }
 
-group 'com.rgomezcasas'
-version '0.0.2'
+group 'tv.codely'
+version '1.0.0'
 
 sourceCompatibility = 1.8
 
@@ -24,7 +24,7 @@ intellij {
 patchPluginXml {
     changeNotes """
     <ul>
-    <li>0.0.1   First version.</li>
+    <li>1.0.0   First version.</li>
     </ul>
       """
 }
