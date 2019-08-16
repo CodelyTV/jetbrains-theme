@@ -1,4 +1,24 @@
 <h1 align="center">
   🎨 CodelyTV JetBrains IDEs Theme
 </h1>
-<img src="https://user-images.githubusercontent.com/1331435/63159884-b7655700-c01c-11e9-941d-618e7cb4b13a.png" alt="CodelyTV Theme example">
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/1331435/63159884-b7655700-c01c-11e9-941d-618e7cb4b13a.png" alt="CodelyTV Theme example">
+    <sub>A modern, good-looking, productivity-increaser theme for all JetBrains IDEs</sub>
+</p>
+<p align="center">
+  <a href="docs/screenshots.md">Screenshots</a>
+  ·
+  <a href="https://github.com/CodelyTV/jetbrains-theme/issues">Report Bug</a>
+  ·
+  <a href="https://github.com/CodelyTV/jetbrains-theme/issues">Request Feature</a>
+</p>
+
+## 🚀 Build the Theme
+
+1. Run the command `make build`
+2. You'll have the theme located in ``
+
+
+## 🌅 Screenshots
+
+Screenshots can be found [here](docs/screenshots.md)
