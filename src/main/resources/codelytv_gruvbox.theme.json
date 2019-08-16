@@ -2,6 +2,7 @@
   "name": "CodelyTV - Gruvbox",
   "dark": true,
   "author": "CodelyTV",
+  "editorScheme": "/codelytv_gruvbox.xml",
   "ui": {
     "*": {
       "background": "#282828",
@@ -54,9 +55,7 @@
       }
     },
     "EditorTabs": {
-      "selectedBackground": "#3c3836",
-      "underlineColor": "#83a598",
-      "inactiveMaskColor": "#282828"
+      "underlineColor": "#83a598"
     },
     "ToolWindow": {
       "Header": {
