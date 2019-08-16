@@ -15,8 +15,8 @@
 
 ## 🚀 Build the Theme
 
-1. Run the command `make build`
-2. You'll have the theme located in ``
+1. Run the command `make` in the root of the project
+2. You'll have the theme located in `./build/libs`
 
 
 ## 🌅 Screenshots
