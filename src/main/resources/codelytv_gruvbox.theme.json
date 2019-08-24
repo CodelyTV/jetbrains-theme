@@ -28,6 +28,12 @@
 
       "separatorColor": "#3c3836"
     },
+    "CompletionPopup": {
+      "selectionBackground": "#262626"
+    },
+    "VersionControl.Log.Commit": {
+      "currentBranchBackground": "#282828"
+    },
     "ActionButton": {
       "hoverBackground": "#504945"
     },
