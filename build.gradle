@@ -4,7 +4,7 @@ plugins {
 }
 
 group 'tv.codely'
-version '1.0.0'
+version '1.0.1'
 
 sourceCompatibility = 1.8
 
@@ -18,12 +18,17 @@ dependencies {
 
 // See https://github.com/JetBrains/gradle-intellij-plugin/
 intellij {
-    version '192-EAP-SNAPSHOT'
+    version '191-EAP-SNAPSHOT'
     sameSinceUntilBuild false
 }
+
 patchPluginXml {
+    sinceBuild '191'
+    untilBuild 'LATEST-EAP-SNAPSHOT'
+
     changeNotes """
     <ul>
+    <li>1.0.1   Improve colors and add retrocompatibility.</li>
     <li>1.0.0   First version.</li>
     </ul>
       """
