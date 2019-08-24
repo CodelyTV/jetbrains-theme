@@ -22,9 +22,10 @@ intellij {
     sameSinceUntilBuild false
 }
 
+// See http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html
 patchPluginXml {
     sinceBuild '191'
-    untilBuild 'LATEST-EAP-SNAPSHOT'
+    untilBuild '192.*'
 
     changeNotes """
     <ul>
