@@ -13,7 +13,7 @@
       "lightSelectionBackground": "#3c3836",
       "selectionBackground": "#4F4945",
       "selectionForeground": "#fbf1c7",
-      "selectionInactiveBackground": "#3c3836",
+      "selectionInactiveBackground": "#353130",
       "selectionBackgroundInactive": "#3c3836",
 
       "selectedBackground": "#1d2021",
@@ -76,8 +76,8 @@
       "lightSelectionInactiveBackground":"#282828"
     },
     "FileColor": {
-      "Yellow": "#413d33",
-      "Green": "#3e493f",
+      "Yellow": "#393126",
+      "Green": "#303930",
       "Blue": "#83a59844",
       "Violet": "#d3869b22",
       "Orange": "#fe801988",
