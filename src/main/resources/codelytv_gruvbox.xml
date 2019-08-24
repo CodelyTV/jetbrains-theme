@@ -1,11 +1,11 @@
 <scheme name="CodelyTV - Gruvbox" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-08-16T12:50:14</property>
+    <property name="created">2019-08-25T00:15:38</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.1.0.0</property>
-    <property name="modified">2019-08-16T12:50:23</property>
-    <property name="originalScheme">rafa-frio</property>
+    <property name="modified">2019-08-25T00:15:48</property>
+    <property name="originalScheme">_@user_CodelyTV - Gruvbox</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.3" />
   <font>
@@ -17,13 +17,12 @@
     <option name="EDITOR_FONT_SIZE" value="16" />
   </font>
   <option name="CONSOLE_FONT_NAME" value="Dank Mono" />
-  <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="3e5a3f" />
     <option name="ANNOTATIONS_COLOR" value="0" />
     <option name="CARET_COLOR" value="bbbbbb" />
     <option name="CARET_ROW_COLOR" value="3c3836" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="262626" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="282828" />
     <option name="DELETED_LINES_COLOR" value="9f4131" />
     <option name="FILESTATUS_ADDED" value="629755" />
     <option name="FILESTATUS_DELETED" value="6c6c6c" />

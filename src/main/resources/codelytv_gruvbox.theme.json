@@ -111,7 +111,9 @@
     "WelcomeScreen": {
       "Projects.selectionBackground": "#4d4d4d",
       "Projects.selectionInactiveBackground": "#4d4d4d",
-      "separatorColor": "#4d4d4d"
+      "Projects.background": "#323232",
+      "separatorColor": "#272727",
+      "background": "#272727"
     },
     "Window.border": "0,0,0,0,4d4d4d"
   },
