@@ -68,7 +68,6 @@
         "background": "#3c3836",
         "inactiveBackground": "#282828"
       },
-
       "HeaderTab": {
         "selectedInactiveBackground": "#1d2021",
         "hoverInactiveBackground": "#1d2021"
@@ -77,12 +76,12 @@
     "Table": {
       "stripeColor": "#3c3836",
       "lightSelectionForeground": "#fbf1c7",
-      "lightSelectionInactiveForeground":"#a89984",
+      "lightSelectionInactiveForeground": "#a89984",
       "lightSelectionBackground": "#504945",
-      "lightSelectionInactiveBackground":"#282828"
+      "lightSelectionInactiveBackground": "#282828"
     },
     "FileColor": {
-      "Yellow": "#393126",
+      "Yellow": "#2d2d23",
       "Green": "#303930",
       "Blue": "#83a59844",
       "Violet": "#d3869b22",
@@ -94,7 +93,27 @@
       "hoverForeground": "#83a598",
       "pressedForeground": "#83a598",
       "visitedForeground": "#83a598"
-    }
+    },
+    "List": {
+      "background": "#232323",
+      "selectionBackground": "#4d4d4d"
+    },
+    "Popup": {
+      "Header.activeBackground": "#232323",
+      "Header.inactiveBackground": "#232323",
+      "paintBorder": false
+    },
+    "PopupMenu.borderWidth": "0",
+    "PopupMenuSeparator.stripeWidth": 1,
+    "SettingsTree.rowHeight": "0",
+    "TableHeader.cellBorder": "3,1,3,1",
+    "Tree.rowHeight": "0",
+    "WelcomeScreen": {
+      "Projects.selectionBackground": "#4d4d4d",
+      "Projects.selectionInactiveBackground": "#4d4d4d",
+      "separatorColor": "#4d4d4d"
+    },
+    "Window.border": "0,0,0,0,4d4d4d"
   },
   "icons": {
     "ColorPalette": {
