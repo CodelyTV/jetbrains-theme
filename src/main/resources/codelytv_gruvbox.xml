@@ -1,5 +1,4 @@
 <scheme name="CodelyTV - Gruvbox" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2019-08-25T00:15:38</property>
     <property name="ide">idea</property>
@@ -7,6 +6,7 @@
     <property name="modified">2019-08-25T00:15:48</property>
     <property name="originalScheme">_@user_CodelyTV - Gruvbox</property>
   </metaInfo>
+  <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.3" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Dank Mono" />
@@ -27,7 +27,7 @@
     <option name="FILESTATUS_ADDED" value="629755" />
     <option name="FILESTATUS_DELETED" value="6c6c6c" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6c6c6c" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="848504" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="79725b" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="d5756c" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="d5756c" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d5756c" />
