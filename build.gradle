@@ -4,7 +4,7 @@ plugins {
 }
 
 group 'tv.codely'
-version '1.0.1'
+version '1.0.2'
 
 sourceCompatibility = 1.8
 
@@ -29,6 +29,7 @@ patchPluginXml {
 
     changeNotes """
     <ul>
+    <li>1.0.2   Better contrast for all colors.</li>
     <li>1.0.1   Improve colors and add retrocompatibility.</li>
     <li>1.0.0   First version.</li>
     </ul>
