@@ -37,6 +37,14 @@
     <option name="FILESTATUS_changelistConflict" value="d5756c" />
     <option name="FILESTATUS_modifiedOutside" value="83a598" />
     <option name="GUTTER_BACKGROUND" value="282828" />
+    <option name="HTML_TAG_TREE_LEVEL0" value="cc241d" />
+    <option name="HTML_TAG_TREE_LEVEL1" value="d79921" />
+    <option name="HTML_TAG_TREE_LEVEL2" value="98971a" />
+    <option name="HTML_TAG_TREE_LEVEL3" value="458588" />
+    <option name="HTML_TAG_TREE_LEVEL4" value="83a598" />
+    <option name="HTML_TAG_TREE_LEVEL5" value="b16286" />
+    <option name="HTML_TAG_TREE_LEVEL6" value="d65d0e" />
+    <option name="HTML_TAG_TREE_LEVEL7" value="689d6a" />
     <option name="INDENT_GUIDE" value="444444" />
     <option name="LINE_NUMBERS_COLOR" value="928374" />
     <option name="METHOD_SEPARATORS_COLOR" value="2a2a2a" />
@@ -59,14 +67,6 @@
     <option name="VISUAL_INDENT_GUIDE" value="303030" />
     <option name="WHITESPACES" value="505050" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="86bac9" />
-    <option name="HTML_TAG_TREE_LEVEL0" value="cc241d" />
-    <option name="HTML_TAG_TREE_LEVEL1" value="d79921" />
-    <option name="HTML_TAG_TREE_LEVEL2" value="98971a" />
-    <option name="HTML_TAG_TREE_LEVEL3" value="458588" />
-    <option name="HTML_TAG_TREE_LEVEL4" value="83a598" />
-    <option name="HTML_TAG_TREE_LEVEL5" value="b16286" />
-    <option name="HTML_TAG_TREE_LEVEL6" value="d65d0e" />
-    <option name="HTML_TAG_TREE_LEVEL7" value="689d6a" />
   </colors>
   <attributes>
     <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
@@ -97,6 +97,7 @@
     <option name="BRACKET_ATTR">
       <value>
         <option name="FOREGROUND" value="fabd2f" />
+        <option name="BACKGROUND" value="1d2021" />
       </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
@@ -215,14 +216,15 @@
     </option>
     <option name="CTRL_CLICKABLE">
       <value>
-        <option name="FOREGROUND" value="83a598" />
-        <option name="EFFECT_COLOR" value="83a598" />
+        <option name="FOREGROUND" value="458588" />
+        <option name="EFFECT_COLOR" value="458588" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="CUSP_BRACKETS_ATTR">
       <value>
         <option name="FOREGROUND" value="fabd2f" />
+        <option name="BACKGROUND" value="1d2021" />
       </value>
     </option>
     <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
@@ -530,6 +532,7 @@
     <option name="DOUBLE_QUOTE_ATTR">
       <value>
         <option name="FOREGROUND" value="fabd2f" />
+        <option name="BACKGROUND" value="1d2021" />
       </value>
     </option>
     <option name="DUPLICATE_FROM_SERVER">
@@ -565,7 +568,7 @@
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="83a598" />
+        <option name="FOREGROUND" value="458588" />
         <option name="EFFECT_COLOR" value="83a598" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -601,8 +604,8 @@
     </option>
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="83a598" />
-        <option name="EFFECT_COLOR" value="83a598" />
+        <option name="FOREGROUND" value="458588" />
+        <option name="EFFECT_COLOR" value="458588" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -694,7 +697,8 @@
     <option name="List/map to object conversion" baseAttributes="JAVA_NUMBER" />
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="fe8019" />
+        <option name="FOREGROUND" value="fabd2f" />
+        <option name="BACKGROUND" value="1d2021" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
@@ -741,6 +745,7 @@
     <option name="PARENTHESIS_ATTR">
       <value>
         <option name="FOREGROUND" value="fabd2f" />
+        <option name="BACKGROUND" value="1d2021" />
       </value>
     </option>
     <option name="PHP_IDENTIFIER">
@@ -1080,6 +1085,7 @@
     <option name="YAML_ANCHOR" baseAttributes="DEFAULT_IDENTIFIER" />
   </attributes>
   <option name="FONT_SCALE" value="1.0" />
-  <option name="LINE_SPACING" value="1.3" />
+  <option name="LINE_SPACING" value="1.5" />
   <option name="CONSOLE_FONT_NAME" value="Dank Mono" />
+  <option name="CONSOLE_LINE_SPACING" value="1.9" />
 </scheme>

@@ -4,7 +4,7 @@
     <tr>
         <td colspan="2">
             <h2 align="center">CodelyTV - Gruvbox</h2>
-            <img src="https://user-images.githubusercontent.com/1331435/63162402-b6cfbf00-c022-11e9-851c-f70b65e3c1c0.png" alt="CodelyTV - Gruvbox" />
+            <img src="https://user-images.githubusercontent.com/1331435/63859785-3dcc5200-c9a8-11e9-9c4e-2eb215c8ef38.png" alt="CodelyTV - Gruvbox" />
         </td>
     </tr>
     <tr>
@@ -17,7 +17,7 @@
     </tr>
     <tr>
         <td>Line Spacing</td>
-        <td>1.3</td>
+        <td>1.5</td>
     </tr>
     <tr>
         <td>Background Image</td>

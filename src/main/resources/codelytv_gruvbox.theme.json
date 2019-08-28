@@ -122,7 +122,7 @@
       "Actions.Grey": "#928374",
       "Actions.Red": "#fb4934",
       "Actions.Yellow": "#fabd2f",
-      "Actions.Green": "#98971a",
+      "Actions.Green": "#689d6a",
       "Actions.Blue": "#458588",
       "Actions.GreyInline.Dark": "#fbf1c7",
 
@@ -131,12 +131,12 @@
       "Objects.Red": "#fb4934FF",
       "Objects.Pink": "#d3869bFF",
       "Objects.Yellow": "#fabd2fFF",
-      "Objects.Green": "#98971aFF",
+      "Objects.Green": "#689d6aFF",
       "Objects.Blue": "#458588FF",
       "Objects.Purple": "#b16286FF",
       "Objects.BlackText": "#000000FF",
       "Objects.YellowDark": "#d79921FF",
-      "Objects.GreenAndroid": "#b8bb26FF",
+      "Objects.GreenAndroid": "#689d6aFF",
 
       "Checkbox.Background.Default.Dark": "#282828",
       "Checkbox.Border.Default.Dark": "#fbf1c7",
