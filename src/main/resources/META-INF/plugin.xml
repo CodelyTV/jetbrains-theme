@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>tv.codely.codelytv-theme</id>
     <name>CodelyTV Theme</name>
-    <version>1.0.2</version>
+    <version>1.0.3</version>
     <vendor email="soporte@codely.tv" url="https://codely.tv">CodelyTV</vendor>
 
     <description><![CDATA[

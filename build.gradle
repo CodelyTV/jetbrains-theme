@@ -4,7 +4,7 @@ plugins {
 }
 
 group 'tv.codely'
-version '1.0.2'
+version '1.0.3'
 
 sourceCompatibility = 1.8
 
@@ -25,10 +25,11 @@ intellij {
 // See http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html
 patchPluginXml {
     sinceBuild '191'
-    untilBuild '192.*'
+    untilBuild '193.*'
 
     changeNotes """
     <ul>
+    <li>1.0.3   Compatibility with IDEs 2019.3.</li>
     <li>1.0.2   Better contrast for all colors.</li>
     <li>1.0.1   Improve colors and add retrocompatibility.</li>
     <li>1.0.0   First version.</li>
