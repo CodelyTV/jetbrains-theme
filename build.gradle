@@ -4,7 +4,7 @@ plugins {
 }
 
 group 'tv.codely'
-version '1.0.4'
+version '1.0.5'
 
 sourceCompatibility = 1.8
 
@@ -30,6 +30,7 @@ patchPluginXml {
 
     changeNotes """
     <ul>
+    <li>1.0.5   Fix colors with JS > 2019.3.</li>
     <li>1.0.4   Improve colors of some menus.</li>
     <li>1.0.3   Compatibility with IDEs 2019.3.</li>
     <li>1.0.2   Better contrast for all colors.</li>
