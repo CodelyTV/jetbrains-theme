@@ -1,0 +1,27 @@
+<svg width="40" height="40" xmlns="http://www.w3.org/2000/svg">
+    <g>
+        <title>Layer 1</title>
+        <text fill="#0fff7f"
+              stroke-width="0"
+              x="-1.4025"
+              y="20.191566"
+              id="svg_1"
+              font-size="28"
+              font-family="'Times New Roman', Times, serif"
+              xml:space="preserve"
+              font-weight="bold"
+              transform="matrix(1.2081771107418977,0,0,1.379181501448761,-0.12162899220866141,1.2887349586350336) ">{  }
+        </text>
+        <text fill="#f9f9f9"
+              stroke-width="0"
+              x="11.043432"
+              y="32.822496"
+              id="svg_3"
+              font-size="28"
+              font-family="Junction, sans-serif"
+              xml:space="preserve"
+              transform="matrix(0.7726209053420319,0,0,0.68664003726484,3.8942285424809078,4.919236991207697) "
+              stroke="null">►
+        </text>
+    </g>
+</svg>

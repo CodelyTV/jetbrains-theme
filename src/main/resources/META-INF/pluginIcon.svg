@@ -1,0 +1,25 @@
+<svg width="40" height="40" xmlns="http://www.w3.org/2000/svg">
+    <g>
+        <title>Layer 1</title>
+        <text transform="matrix(1.2081771107418977,0,0,1.379181501448761,-0.12162899220866141,1.2887349586350336) "
+              font-weight="bold"
+              xml:space="preserve"
+              font-family="'Times New Roman', Times, serif"
+              font-size="28"
+              id="svg_1"
+              y="20.191566"
+              x="-1.4025"
+              stroke-width="0"
+              fill="#0fff7f">{  }</text>
+        <text stroke="null"
+              transform="matrix(0.7726209053420319,0,0,0.68664003726484,3.8942285424809078,4.919236991207697) "
+              xml:space="preserve"
+              font-family="Junction, sans-serif"
+              font-size="28"
+              id="svg_3"
+              y="32.822496"
+              x="11.043432"
+              stroke-width="0"
+              fill="#1e4660">►</text>
+    </g>
+</svg>
