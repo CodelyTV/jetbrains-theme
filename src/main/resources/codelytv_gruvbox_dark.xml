@@ -4,7 +4,7 @@
     <property name="ide">idea</property>
     <property name="ideVersion">2019.3.0.0</property>
     <property name="modified">2019-11-11T14:45:45</property>
-    <property name="originalScheme">_@user_CodelyTV - Gruvbox</property>
+    <property name="originalScheme">_@user_CodelyTV - Gruvbox Dark</property>
   </metaInfo>
   <font>
     <option name="EDITOR_FONT_NAME" value="Dank Mono" />
@@ -29,13 +29,13 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="d5756c" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d5756c" />
     <option name="FILESTATUS_MERGED" value="9876aa" />
-    <option name="FILESTATUS_MODIFIED" value="6897bb" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="6897bb" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="6897bb" />
+    <option name="FILESTATUS_MODIFIED" value="458588" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="458588" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="458588" />
+    <option name="FILESTATUS_modifiedOutside" value="458588" />
     <option name="FILESTATUS_UNKNOWN" value="d1675a" />
     <option name="FILESTATUS_addedOutside" value="629755" />
     <option name="FILESTATUS_changelistConflict" value="d5756c" />
-    <option name="FILESTATUS_modifiedOutside" value="6897bb" />
     <option name="GUTTER_BACKGROUND" value="282828" />
     <option name="HTML_TAG_TREE_LEVEL0" value="cc241d" />
     <option name="HTML_TAG_TREE_LEVEL1" value="d79921" />
@@ -67,7 +67,7 @@
     <option name="VISUAL_INDENT_GUIDE" value="303030" />
     <option name="WHITESPACES" value="505050" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="86bac9" />
-    <option name="RECENT_LOCATIONS_SELECTION" value="131313" />
+    <option name="RECENT_LOCATIONS_SELECTION" value="1d2021" />
   </colors>
   <attributes>
     <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />

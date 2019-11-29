@@ -16,7 +16,7 @@
 
     <extensions defaultExtensionNs="com.intellij">
         <!-- Add your extensions here -->
-        <themeProvider id="21e54412-e514-4787-83b8-7f63ccc90eb1" path="/codelytv_gruvbox.theme.json"/>
+        <themeProvider id="7bc8966b-cad4-4bd1-91c8-658d839daba2" path="/codelytv_gruvbox_dark.theme.json"/>
     </extensions>
 
     <actions>
