@@ -21,6 +21,14 @@
     <option name="CARET_ROW_COLOR" value="3c3836" />
     <option name="CONSOLE_BACKGROUND_KEY" value="282828" />
     <option name="DELETED_LINES_COLOR" value="9f4131" />
+    <option name="DIAGRAM_ANNOTATION_EDGE" value="d79921" />
+    <option name="DIAGRAM_GENERALIZATION_EDGE" value="458588" />
+    <option name="DIAGRAM_INNER_EDGE" value="cc241d" />
+    <option name="DIAGRAM_NODE_BACKGROUND" value="504945" />
+    <option name="DIAGRAM_NODE_HEADER" value="1d2021" />
+    <option name="DIAGRAM_NOTE_BACKGROUND" value="a89984" />
+    <option name="DIAGRAM_NOTE_BORDER" value="32302f" />
+    <option name="DIAGRAM_REALIZATION_EDGE" value="fabd2f" />
     <option name="FILESTATUS_ADDED" value="629755" />
     <option name="FILESTATUS_DELETED" value="6c6c6c" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6c6c6c" />
@@ -32,10 +40,10 @@
     <option name="FILESTATUS_MODIFIED" value="458588" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="458588" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="458588" />
-    <option name="FILESTATUS_modifiedOutside" value="458588" />
     <option name="FILESTATUS_UNKNOWN" value="d1675a" />
     <option name="FILESTATUS_addedOutside" value="629755" />
     <option name="FILESTATUS_changelistConflict" value="d5756c" />
+    <option name="FILESTATUS_modifiedOutside" value="458588" />
     <option name="GUTTER_BACKGROUND" value="282828" />
     <option name="HTML_TAG_TREE_LEVEL0" value="cc241d" />
     <option name="HTML_TAG_TREE_LEVEL1" value="d79921" />
@@ -50,6 +58,7 @@
     <option name="METHOD_SEPARATORS_COLOR" value="2a2a2a" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
     <option name="NOTIFICATION_BACKGROUND" value="2e5b95" />
+    <option name="RECENT_LOCATIONS_SELECTION" value="1d2021" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
     <option name="RIGHT_MARGIN_COLOR" value="444444" />
     <option name="SELECTED_INDENT_GUIDE" value="5c4e39" />
@@ -67,7 +76,7 @@
     <option name="VISUAL_INDENT_GUIDE" value="303030" />
     <option name="WHITESPACES" value="505050" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="86bac9" />
-    <option name="RECENT_LOCATIONS_SELECTION" value="1d2021" />
+    <option name="DIAGRAM_DEFAULT_EDGE" value="32302f" />
   </colors>
   <attributes>
     <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
