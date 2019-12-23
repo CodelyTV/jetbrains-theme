@@ -1,9 +1,9 @@
-<scheme name="CTV - Gruvbox Dark" version="142" parent_scheme="Default">
+<scheme name="CTV - Gruvbox Dark" version="142" parent_scheme="Darcula">
   <metaInfo>
     <property name="created">2019-11-11T14:45:41</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.3.0.0</property>
-    <property name="modified">2019-11-11T14:45:45</property>
+    <property name="modified">2019-12-23T12:22:00</property>
     <property name="originalScheme">_@user_CodelyTV - Gruvbox Dark</property>
   </metaInfo>
   <font>
@@ -61,6 +61,30 @@
     <option name="RECENT_LOCATIONS_SELECTION" value="1d2021" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
     <option name="RIGHT_MARGIN_COLOR" value="444444" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="" />
+    <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="282828" />
+    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="" />
+    <option name="ScrollBar.Mac.Transparent.thumbColor" value="" />
+    <option name="ScrollBar.Mac.Transparent.trackColor" value="282828" />
+    <option name="ScrollBar.Mac.hoverThumbBorderColor" value="" />
+    <option name="ScrollBar.Mac.hoverThumbColor" value="" />
+    <option name="ScrollBar.Mac.hoverTrackColor" value="282828" />
+    <option name="ScrollBar.Mac.thumbBorderColor" value="" />
+    <option name="ScrollBar.Mac.thumbColor" value="" />
+    <option name="ScrollBar.Mac.trackColor" value="282828" />
+    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="" />
+    <option name="ScrollBar.Transparent.hoverThumbColor" value="" />
+    <option name="ScrollBar.Transparent.hoverTrackColor" value="282828" />
+    <option name="ScrollBar.Transparent.thumbBorderColor" value="" />
+    <option name="ScrollBar.Transparent.thumbColor" value="" />
+    <option name="ScrollBar.Transparent.trackColor" value="282828" />
+    <option name="ScrollBar.hoverThumbBorderColor" value="" />
+    <option name="ScrollBar.hoverThumbColor" value="" />
+    <option name="ScrollBar.hoverTrackColor" value="282828" />
+    <option name="ScrollBar.thumbBorderColor" value="" />
+    <option name="ScrollBar.thumbColor" value="" />
+    <option name="ScrollBar.trackColor" value="282828" />
     <option name="SELECTED_INDENT_GUIDE" value="5c4e39" />
     <option name="SELECTED_TEARLINE_COLOR" value="8ec07c" />
     <option name="SELECTION_BACKGROUND" value="665c54" />

@@ -20,7 +20,6 @@
 1. Run the command `make` in the root of the project
 2. You'll have the theme located in `./build/distributions`
 
-
 ## 🌅 Screenshots
 
 Screenshots can be found [here](docs/screenshots.md)
