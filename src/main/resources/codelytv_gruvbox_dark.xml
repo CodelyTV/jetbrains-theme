@@ -108,7 +108,17 @@
     </option>
     <option name="BASH.EXTERNAL_COMMAND">
       <value>
-        <option name="FOREGROUND" value="b8bb26" />
+        <option name="FOREGROUND" value="ebdbb2" />
+      </value>
+    </option>
+    <option name="BASH.RAW_STRING">
+      <value>
+        <option name="FOREGROUND" value="8ec07c" />
+      </value>
+    </option>
+    <option name="BASH.STRING">
+      <value>
+        <option name="FOREGROUND" value="8ec07c" />
       </value>
     </option>
     <option name="BOOKMARKS_ATTRIBUTES">
@@ -1128,7 +1138,7 @@
         <option name="FOREGROUND" value="8ec07c" />
       </value>
     </option>
-    <option name="YAML_SCALAR_KEY" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="BASH.VAR_USE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
   </attributes>
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.6" />
