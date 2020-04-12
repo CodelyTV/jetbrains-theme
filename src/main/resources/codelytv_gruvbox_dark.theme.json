@@ -122,6 +122,10 @@
       "allocatedBackground": "#1d1d1d",
       "usedBackground": "#1e1e1e"
     },
+    "ProgressBar": {
+      "indeterminateStartColor": "#1f1f1f",
+      "indeterminateEndColor": "#1e1e1e"
+    },
     "PopupMenu.borderWidth": "0",
     "PopupMenuSeparator.stripeWidth": 1,
     "SettingsTree.rowHeight": "0",
