@@ -39,6 +39,7 @@
     <option name="DIAGRAM_NOTE_BORDER" value="32302f" />
     <option name="DIAGRAM_REALIZATION_EDGE" value="fabd2f" />
     <option name="DOCUMENTATION_COLOR" value="1e1e1e" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="7a725c" />
     <option name="FILESTATUS_MODIFIED" value="458588" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="458588" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="458588" />
@@ -53,6 +54,7 @@
     <option name="HTML_TAG_TREE_LEVEL6" value="d65d0e" />
     <option name="HTML_TAG_TREE_LEVEL7" value="689d6a" />
     <option name="INDENT_GUIDE" value="303030" />
+    <option name="INFORMATION_HINT" value="282828" />
     <option name="LINE_NUMBERS_COLOR" value="928374" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="ebdbb2" />
     <option name="METHOD_SEPARATORS_COLOR" value="282828" />
@@ -99,7 +101,6 @@
     <option name="VISUAL_INDENT_GUIDE" value="303030" />
     <option name="WHITESPACES" value="505050" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="86bac9" />
-    <option name="INFORMATION_HINT" value="282828" />
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
@@ -1186,7 +1187,4 @@
       </value>
     </option>
   </attributes>
-  <option name="FONT_SCALE" value="1.0" />
-  <option name="LINE_SPACING" value="1.6" />
-  <option name="CONSOLE_LINE_SPACING" value="1.3" />
 </scheme>
