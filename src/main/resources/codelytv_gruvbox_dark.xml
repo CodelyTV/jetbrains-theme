@@ -25,6 +25,7 @@
   <colors>
     <option name="ADDED_LINES_COLOR" value="3e5a3f" />
     <option name="ANNOTATIONS_COLOR" value="0" />
+    <option name="CARET_COLOR" value="ebdbb2" />
     <option name="CARET_ROW_COLOR" value="3c3836" />
     <option name="CONSOLE_BACKGROUND_KEY" value="282828" />
     <option name="DELETED_LINES_COLOR" value="9f4131" />
@@ -96,7 +97,6 @@
     <option name="VISUAL_INDENT_GUIDE" value="303030" />
     <option name="WHITESPACES" value="505050" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="86bac9" />
-    <option name="CARET_COLOR" value="ebdbb2" />
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
@@ -748,8 +748,8 @@
     <option name="List/map to object conversion" baseAttributes="JAVA_NUMBER" />
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="fabd2f" />
-        <option name="BACKGROUND" value="1d2021" />
+        <option name="FOREGROUND" value="ebdbb2" />
+        <option name="BACKGROUND" value="1e1e1e" />
       </value>
     </option>
     <option name="NOT_TOP_FRAME_ATTRIBUTES">
