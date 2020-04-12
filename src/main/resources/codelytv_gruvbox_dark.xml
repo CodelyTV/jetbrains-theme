@@ -38,6 +38,7 @@
     <option name="DIAGRAM_NOTE_BACKGROUND" value="a89984" />
     <option name="DIAGRAM_NOTE_BORDER" value="32302f" />
     <option name="DIAGRAM_REALIZATION_EDGE" value="fabd2f" />
+    <option name="DOCUMENTATION_COLOR" value="1e1e1e" />
     <option name="FILESTATUS_MODIFIED" value="458588" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="458588" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="458588" />
@@ -89,6 +90,7 @@
     <option name="ScrollBar.thumbColor" value="" />
     <option name="ScrollBar.trackColor" value="282828" />
     <option name="TEARLINE_COLOR" value="665c54" />
+    <option name="TOOLTIP" value="1e1e1e" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="c5574a" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="f4f1bb" />
     <option name="VCS_ANNOTATIONS_COLOR_3" value="9bc1bc" />
@@ -97,7 +99,7 @@
     <option name="VISUAL_INDENT_GUIDE" value="303030" />
     <option name="WHITESPACES" value="505050" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="86bac9" />
-    <option name="DOCUMENTATION_COLOR" value="1e1e1e" />
+    <option name="INFORMATION_HINT" value="282828" />
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
@@ -145,6 +147,9 @@
       <value>
         <option name="BACKGROUND" value="3a2323" />
       </value>
+    </option>
+    <option name="CODE_LENS_BORDER_COLOR">
+      <value />
     </option>
     <option name="COFFEESCRIPT.CLASS_NAME">
       <value>
