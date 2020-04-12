@@ -4,7 +4,7 @@ plugins {
 }
 
 group 'tv.codely'
-version '1.1.6'
+version '1.1.7'
 
 sourceCompatibility = 1.8
 
@@ -30,9 +30,9 @@ patchPluginXml {
 
     changeNotes """
     <ul>
+    <li>1.1.7   Subtle colors improvements</li>
     <li>1.1.6   Support for 2020 IDEs</li>
     <li>1.1.5   Correct color for php variables</li>
-    <li>1.1.4   Improved colors for several languages</li>
     </ul>
       """
 }
