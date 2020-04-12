@@ -51,7 +51,8 @@
       "currentBranchBackground": "bg"
     },
     "ActionButton": {
-      "hoverBackground": "#504945"
+      "hoverBackground": "#3e3836",
+      "pressedBackground": "#504945"
     },
     "Button": {
       "endBackground": "bg",
@@ -123,8 +124,12 @@
       "usedBackground": "#1e1e1e"
     },
     "ProgressBar": {
-      "indeterminateStartColor": "#1f1f1f",
-      "indeterminateEndColor": "#1e1e1e"
+      "indeterminateStartColor": "#1e1e1e",
+      "indeterminateEndColor": "#1e1e1e",
+      "passedColor": "#1e1e1e",
+      "passedEndColor": "#1e1e1e",
+      "failedColor": "#260000",
+      "failedEndColor": "#180000"
     },
     "PopupMenu.borderWidth": "0",
     "PopupMenuSeparator.stripeWidth": 1,
