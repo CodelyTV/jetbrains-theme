@@ -95,6 +95,7 @@
     <option name="VISUAL_INDENT_GUIDE" value="303030" />
     <option name="WHITESPACES" value="505050" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="86bac9" />
+    <option name="METHOD_SEPARATORS_COLOR" value="282828" />
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
