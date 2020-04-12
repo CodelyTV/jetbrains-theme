@@ -50,13 +50,14 @@
     <option name="HTML_TAG_TREE_LEVEL5" value="b16286" />
     <option name="HTML_TAG_TREE_LEVEL6" value="d65d0e" />
     <option name="HTML_TAG_TREE_LEVEL7" value="689d6a" />
-    <option name="INDENT_GUIDE" value="444444" />
+    <option name="INDENT_GUIDE" value="303030" />
     <option name="LINE_NUMBERS_COLOR" value="928374" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="ebdbb2" />
+    <option name="METHOD_SEPARATORS_COLOR" value="282828" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
     <option name="NOTIFICATION_BACKGROUND" value="2e5b95" />
     <option name="RECENT_LOCATIONS_SELECTION" value="1d2021" />
-    <option name="RIGHT_MARGIN_COLOR" value="444444" />
+    <option name="RIGHT_MARGIN_COLOR" value="303030" />
     <option name="SELECTED_INDENT_GUIDE" value="5c4e39" />
     <option name="SELECTED_TEARLINE_COLOR" value="8ec07c" />
     <option name="SELECTION_BACKGROUND" value="665c54" />
@@ -95,7 +96,7 @@
     <option name="VISUAL_INDENT_GUIDE" value="303030" />
     <option name="WHITESPACES" value="505050" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="86bac9" />
-    <option name="METHOD_SEPARATORS_COLOR" value="282828" />
+    <option name="CARET_COLOR" value="ebdbb2" />
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
