@@ -1,8 +1,8 @@
 {
-  "name": "CTV - Gruvbox Dark",
+  "name": "Codely Dark",
   "dark": true,
   "author": "CodelyTV",
-  "editorScheme": "/codelytv_gruvbox_dark.xml",
+  "editorScheme": "/codely_dark.xml",
   "colors": {
     "bg": "#282828",
     "bg0": "#1d2021",

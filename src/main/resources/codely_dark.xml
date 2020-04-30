@@ -1,10 +1,9 @@
-<scheme name="CTV - Gruvbox Dark" version="142" parent_scheme="Darcula">
+<scheme name="Codely Dark" version="142" parent_scheme="Darcula">
   <metaInfo>
     <property name="created">2019-11-11T14:45:41</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.3.2.0.0</property>
     <property name="modified">2020-01-13T16:31:08</property>
-    <property name="originalScheme">_@user_CTV - Gruvbox Dark</property>
   </metaInfo>
   <font>
     <option name="EDITOR_FONT_NAME" value="Dank Mono" />
