@@ -1,4 +1,4 @@
-.PHONY: all build
+.PHONY: build
 
 build:
 	@./gradlew build
