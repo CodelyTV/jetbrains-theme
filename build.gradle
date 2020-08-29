@@ -4,7 +4,7 @@ plugins {
 }
 
 group 'tv.codely'
-version '1.1.9'
+version '2.0.0'
 
 sourceCompatibility = 1.8
 
@@ -20,13 +20,13 @@ dependencies {
 // See https://www.jetbrains.com/intellij-repository/snapshots
 // See https://www.jetbrains.com/intellij-repository/releases
 intellij {
-    version '191.7479.19'
+    version '201.6668.113'
     sameSinceUntilBuild false
 }
 
 // See http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html
 patchPluginXml {
-    sinceBuild '191'
+    sinceBuild '201'
     untilBuild '202.*'
     version project.version
 

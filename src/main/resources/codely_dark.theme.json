@@ -1,13 +1,14 @@
 {
-  "name": "CTV - Gruvbox Dark",
+  "name": "Codely Dark",
   "dark": true,
   "author": "CodelyTV",
-  "editorScheme": "/codelytv_gruvbox_dark.xml",
+  "editorScheme": "/codely_dark.xml",
   "colors": {
-    "bg": "#282828",
-    "bg0": "#1d2021",
-    "bg1": "#3c3836",
-    "bg3": "#4F4945",
+    "bg": "#1e1e1e",
+    "bg0": "#202020",
+    "bg1": "#262626",
+    "bg2": "#303030",
+    "bg3": "#404040",
     "fg": "#EBDBB2",
 
     "red": "#cc241d",
@@ -20,33 +21,41 @@
     "bright_green": "#b8bb26",
     "blue": "#458588",
     "bright_blue": "#83a598",
-    "purple": "#b16286",
-    "bright_purple": "#d3869b",
+    "purple": "#a96bc0",
+    "bright_purple": "#eb64b9",
     "aqua": "#689d6a",
-    "bright_aqua": "#8ec07c"
+    "bright_aqua": "#8ec07c",
+    "dark_grey": "#141414"
   },
   "ui": {
     "*": {
       "background": "bg",
       "borderColor": "bg1",
+      "Group.separatorColor": "dark_grey",
       "disabledBorderColor": "bg0",
       "foreground": "fg",
       "hoverBackground": "bg",
       "infoForeground": "#ebdbb2",
-      "lightSelectionBackground": "bg1",
+      "lightSelectionBackground": "bg2",
       "selectedBackground": "bg0",
-      "selectedBackgroundInactive": "bg1",
+      "selectedBackgroundInactive": "bg2",
       "selectedForeground": "fg",
-      "selectedInactiveBackground": "bg1",
-      "selectionBackground": "bg3",
-      "selectionBackgroundInactive": "bg1",
+      "selectedInactiveBackground": "bg2",
+      "selectionBackground": "bg2",
+      "selectionBackgroundInactive": "bg2",
       "selectionForeground": "fg",
-      "selectionInactiveBackground": "#353130",
-      "separatorColor": "bg1"
+      "selectionInactiveBackground": "bg1",
+      "separatorColor": "dark_grey",
+      "Borders.color": "bg1"
     },
     "CompletionPopup": {
-      "selectionBackground": "#262626"
+      "selectionBackground": "bg0"
     },
+    "Notification.background": "dark_grey",
+    "ToolTip.Actions.background": "dark_grey",
+    "Notification.ToolWindow.informativeBackground": "dark_grey",
+    "ParameterInfo.background": "dark_grey",
+    "Panel.background": "bg",
     "VersionControl.Log.Commit": {
       "currentBranchBackground": "bg"
     },
@@ -81,7 +90,7 @@
     },
     "ToolWindow": {
       "Header": {
-        "background": "bg1",
+        "background": "bg0",
         "inactiveBackground": "bg"
       },
       "HeaderTab": {
@@ -111,12 +120,20 @@
       "visitedForeground": "#83a598"
     },
     "List": {
-      "background": "#232323",
-      "selectionBackground": "bg3"
+      "background": "dark_grey",
+      "selectionBackground": "bg1",
+      "selectionForeground":"fg",
+      "selectionInactiveBackground": "dark_grey"
+    },
+    "NavBar.borderColor": "dark_grey",
+    "Menu": {
+      "separatorColor": "bg0",
+      "background": "dark_grey"
     },
     "Popup": {
-      "Header.activeBackground": "#232323",
-      "Header.inactiveBackground": "#232323",
+      "Header.activeBackground": "dark_grey",
+      "Header.inactiveBackground": "dark_grey",
+      "separatorColor": "dark_grey",
       "paintBorder": false
     },
     "MemoryIndicator": {
@@ -131,19 +148,20 @@
       "failedColor": "#260000",
       "failedEndColor": "#180000"
     },
-    "PopupMenu.borderWidth": "0",
+    "PopupMenu.borderWidth": 0,
+    "PopupMenu.background": "dark_grey",
     "PopupMenuSeparator.stripeWidth": 1,
     "SettingsTree.rowHeight": "0",
     "TableHeader.cellBorder": "3,1,3,1",
     "Tree.rowHeight": "0",
     "WelcomeScreen": {
-      "Projects.background": "#323232",
-      "Projects.selectionBackground": "#4d4d4d",
-      "Projects.selectionInactiveBackground": "#4d4d4d",
-      "background": "#272727",
-      "separatorColor": "#272727"
+      "Projects.background": "bg0",
+      "Projects.selectionBackground": "bg2",
+      "Projects.selectionInactiveBackground": "bg2",
+      "background": "bg",
+      "separatorColor": "bg"
     },
-    "Window.border": "0,0,0,0,4d4d4d"
+    "Window.border": "bg1"
   },
   "icons": {
     "ColorPalette": {
