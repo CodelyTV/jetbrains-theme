@@ -32,6 +32,7 @@ patchPluginXml {
 
     changeNotes """
     <ul>
+    <li>2.0.0   More Punk to the theme + deprecations. You need to select again the theme with this update.</li>
     <li>1.1.9   Support for 2020.2 IDEs</li>
     <li>1.1.8   Match UI colors with the theme</li>
     <li>1.1.7   Subtle colors improvements</li>
