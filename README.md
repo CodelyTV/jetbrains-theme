@@ -1,8 +1,8 @@
 <h1 align="center">
-  🎨 CodelyTV JetBrains IDEs Theme
+  🎨 Codely JetBrains IDEs Theme
 </h1>
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/1331435/91795346-b732fc00-ec1d-11ea-852e-e800c4beb1ff.gif" alt="CodelyTV Theme example">
+    <img src="https://user-images.githubusercontent.com/1331435/91795346-b732fc00-ec1d-11ea-852e-e800c4beb1ff.gif" alt="Codely Theme example">
     <sub>A modern, good-looking, productivity-increaser theme for all JetBrains IDEs<br>AppCode · CLion · DataGrip · GoLand · Intellij IDEA · PhpStorm · PyCharm · Rider · RubyMine · WebStorm</sub>
 </p>
 <p align="center">
