@@ -9,15 +9,12 @@
     A modern, good-looking, productivity-increaser theme for all JetBrains IDEs
     ]]></description>
 
-    <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
-         on how to target different products -->
-    <!-- uncomment to enable plugin in all products -->
     <depends>com.intellij.modules.lang</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <!-- Add your extensions here -->
         <themeProvider id="9c995c89-8c6f-44fc-b41b-73d43dab952d" path="/codely_dark.theme.json"/>
         <themeProvider id="5529dfe4-e498-4ee2-875c-962356a3bb83" path="/codely.theme.json"/>
+        <themeProvider id="4844af51-5b34-4340-85cf-d81a6b235b24" path="/codely_light.theme.json"/>
     </extensions>
 
     <actions>
