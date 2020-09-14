@@ -17,6 +17,7 @@
     <extensions defaultExtensionNs="com.intellij">
         <!-- Add your extensions here -->
         <themeProvider id="9c995c89-8c6f-44fc-b41b-73d43dab952d" path="/codely_dark.theme.json"/>
+        <themeProvider id="5529dfe4-e498-4ee2-875c-962356a3bb83" path="/codely.theme.json"/>
     </extensions>
 
     <actions>
