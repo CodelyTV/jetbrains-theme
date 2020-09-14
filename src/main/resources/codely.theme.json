@@ -1,14 +1,14 @@
 {
-  "name": "Codely Dark",
+  "name": "Codely",
   "dark": true,
   "author": "CodelyTV",
-  "editorScheme": "/codely_dark.xml",
+  "editorScheme": "/codely.xml",
   "colors": {
-    "bg": "#1e1e1e",
-    "bg0": "#202020",
-    "bg1": "#262626",
-    "bg2": "#303030",
-    "bg3": "#404040",
+    "bg": "#202124",
+    "bg0": "#232429",
+    "bg1": "#2c2d35",
+    "bg2": "#333541",
+    "bg3": "#393b4e",
     "fg": "#EBDBB2",
 
     "red": "#cc241d",
@@ -25,7 +25,7 @@
     "bright_purple": "#eb64b9",
     "aqua": "#689d6a",
     "bright_aqua": "#8ec07c",
-    "dark_grey": "#141414"
+    "dark_grey": "#191b1f"
   },
   "ui": {
     "*": {
