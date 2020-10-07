@@ -27,7 +27,7 @@ intellij {
 // See http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html
 patchPluginXml {
     sinceBuild '201'
-    untilBuild '202.*'
+    untilBuild '203.*'
     version project.version
 
     changeNotes """
