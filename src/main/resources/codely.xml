@@ -124,6 +124,18 @@
         <option name="BACKGROUND" value="1d2021" />
       </value>
     </option>
+    <option name="BREADCRUMBS_CURRENT">
+      <value>
+        <option name="FOREGROUND" value="bbbbbb" />
+        <option name="BACKGROUND" value="202020" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_HOVERED">
+      <value>
+        <option name="FOREGROUND" value="bbbbbb" />
+        <option name="BACKGROUND" value="202124" />
+      </value>
+    </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="3a2323" />
@@ -146,8 +158,8 @@
     </option>
     <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="95a19d" />
         <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="95a19d" />
       </value>
     </option>
     <option name="CONSOLE_BLUE_OUTPUT">
@@ -157,8 +169,8 @@
     </option>
     <option name="CONSOLE_CYAN_BRIGHT_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="9ebd93" />
         <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="9ebd93" />
       </value>
     </option>
     <option name="CONSOLE_CYAN_OUTPUT">
@@ -183,8 +195,8 @@
     </option>
     <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="b2b437" />
         <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="b2b437" />
       </value>
     </option>
     <option name="CONSOLE_GREEN_OUTPUT">
@@ -194,8 +206,8 @@
     </option>
     <option name="CONSOLE_MAGENTA_BRIGHT_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="cd98a6" />
         <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="cd98a6" />
       </value>
     </option>
     <option name="CONSOLE_MAGENTA_OUTPUT">
@@ -210,8 +222,8 @@
     </option>
     <option name="CONSOLE_RED_BRIGHT_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="f28e82" />
         <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="f28e82" />
       </value>
     </option>
     <option name="CONSOLE_RED_OUTPUT">
@@ -236,8 +248,8 @@
     </option>
     <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="f1bf4a" />
         <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="f1bf4a" />
       </value>
     </option>
     <option name="CONSOLE_YELLOW_OUTPUT">
@@ -1163,18 +1175,6 @@
     <option name="YAML_SCALAR_STRING">
       <value>
         <option name="FOREGROUND" value="8ec07c" />
-      </value>
-    </option>
-    <option name="BREADCRUMBS_CURRENT">
-      <value>
-        <option name="FOREGROUND" value="bbbbbb" />
-        <option name="BACKGROUND" value="202020" />
-      </value>
-    </option>
-    <option name="BREADCRUMBS_HOVERED">
-      <value>
-        <option name="FOREGROUND" value="bbbbbb" />
-        <option name="BACKGROUND" value="202124" />
       </value>
     </option>
   </attributes>
