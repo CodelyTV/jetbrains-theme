@@ -35,7 +35,6 @@
     <option name="HTML_TAG_TREE_LEVEL7" value="689d6a" />
     <option name="INDENT_GUIDE" value="303030" />
     <option name="INFORMATION_HINT" value="141414" />
-    <option name="LINE_NUMBERS_COLOR" value="423c35" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="ebdbb2" />
     <option name="METHOD_SEPARATORS_COLOR" value="202124" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
@@ -81,6 +80,7 @@
     <option name="VISUAL_INDENT_GUIDE" value="303030" />
     <option name="WHITESPACES" value="202124" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="86bac9" />
+    <option name="LINE_NUMBERS_COLOR" value="313337" />
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
