@@ -159,7 +159,6 @@
     <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
       <value>
         <option name="FOREGROUND" value="95a19d" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CONSOLE_BLUE_OUTPUT">
@@ -170,7 +169,6 @@
     <option name="CONSOLE_CYAN_BRIGHT_OUTPUT">
       <value>
         <option name="FOREGROUND" value="9ebd93" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CONSOLE_CYAN_OUTPUT">
@@ -196,7 +194,6 @@
     <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
       <value>
         <option name="FOREGROUND" value="b2b437" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CONSOLE_GREEN_OUTPUT">
@@ -207,7 +204,6 @@
     <option name="CONSOLE_MAGENTA_BRIGHT_OUTPUT">
       <value>
         <option name="FOREGROUND" value="cd98a6" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CONSOLE_MAGENTA_OUTPUT">
@@ -223,7 +219,6 @@
     <option name="CONSOLE_RED_BRIGHT_OUTPUT">
       <value>
         <option name="FOREGROUND" value="f28e82" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CONSOLE_RED_OUTPUT">
@@ -249,7 +244,6 @@
     <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT">
       <value>
         <option name="FOREGROUND" value="f1bf4a" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CONSOLE_YELLOW_OUTPUT">
@@ -618,7 +612,6 @@
     <option name="GHERKIN_REGEXP_PARAMETER">
       <value>
         <option name="FOREGROUND" value="458588" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="GString">
@@ -762,7 +755,6 @@
     <option name="OC.MACRONAME">
       <value>
         <option name="FOREGROUND" value="d3869b" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="OC.OVERLOADED_OPERATOR">
