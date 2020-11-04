@@ -5,7 +5,6 @@
   <colors>
     <option name="ADDED_LINES_COLOR" value="3e5a3f" />
     <option name="ANNOTATIONS_COLOR" value="0" />
-    <option name="CARET_COLOR" value="e35278" />
     <option name="CARET_ROW_COLOR" value="e8dab8" />
     <option name="CONSOLE_BACKGROUND_KEY" value="f9efcd" />
     <option name="DELETED_LINES_COLOR" value="9f4131" />
@@ -35,6 +34,7 @@
     <option name="HTML_TAG_TREE_LEVEL7" value="689d6a" />
     <option name="INDENT_GUIDE" value="dbceae" />
     <option name="INFORMATION_HINT" value="141414" />
+    <option name="LINE_NUMBERS_COLOR" value="d9d1b2" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="a59a87" />
     <option name="METHOD_SEPARATORS_COLOR" value="f9efcd" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
@@ -80,7 +80,7 @@
     <option name="VISUAL_INDENT_GUIDE" value="dbceae" />
     <option name="WHITESPACES" value="f9efcd" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="86bac9" />
-    <option name="LINE_NUMBERS_COLOR" value="d9d1b2" />
+    <option name="CARET_COLOR" value="8f1d1b" />
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
@@ -109,7 +109,7 @@
     </option>
     <option name="BOOKMARKS_ATTRIBUTES">
       <value>
-        <option name="ERROR_STRIPE_COLOR" value="79722C" />
+        <option name="ERROR_STRIPE_COLOR" value="79722c" />
       </value>
     </option>
     <option name="BRACE_ATTR">
@@ -198,7 +198,7 @@
     </option>
     <option name="CONSOLE_GREEN_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="79722C" />
+        <option name="FOREGROUND" value="79722c" />
       </value>
     </option>
     <option name="CONSOLE_MAGENTA_BRIGHT_OUTPUT">
@@ -313,7 +313,7 @@
     </option>
     <option name="CUSTOM_STRING_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="79722C" />
+        <option name="FOREGROUND" value="79722c" />
       </value>
     </option>
     <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES">
@@ -410,12 +410,12 @@
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="AC7740" />
+        <option name="FOREGROUND" value="ac7740" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="AC7740" />
+        <option name="FOREGROUND" value="ac7740" />
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER" baseAttributes="TEXT" />
@@ -426,7 +426,7 @@
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
       <value>
-        <option name="FOREGROUND" value="AC7740" />
+        <option name="FOREGROUND" value="ac7740" />
       </value>
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
@@ -505,12 +505,12 @@
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="AC7740" />
+        <option name="FOREGROUND" value="ac7740" />
       </value>
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="79722C" />
+        <option name="FOREGROUND" value="79722c" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -628,7 +628,7 @@
     </option>
     <option name="Head symbol">
       <value>
-        <option name="FOREGROUND" value="79722C" />
+        <option name="FOREGROUND" value="79722c" />
       </value>
     </option>
     <option name="Head symbol from clojure.core">
@@ -727,7 +727,7 @@
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="3b3836" />
-        <option name="BACKGROUND" value="141414" />
+        <option name="BACKGROUND" value="caba93" />
       </value>
     </option>
     <option name="NOT_TOP_FRAME_ATTRIBUTES">
@@ -914,7 +914,7 @@
     </option>
     <option name="RUBY_HEREDOC_CONTENT">
       <value>
-        <option name="FOREGROUND" value="79722C" />
+        <option name="FOREGROUND" value="79722c" />
       </value>
     </option>
     <option name="RUBY_HEREDOC_ID">
@@ -929,7 +929,7 @@
     </option>
     <option name="RUBY_REGEXP">
       <value>
-        <option name="FOREGROUND" value="79722C" />
+        <option name="FOREGROUND" value="79722c" />
       </value>
     </option>
     <option name="RUBY_SPECIFIC_CALL">
@@ -1065,7 +1065,7 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="79722C" />
+        <option name="FOREGROUND" value="79722c" />
         <option name="FONT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" value="a74c0" />
       </value>
@@ -1122,7 +1122,7 @@
     </option>
     <option name="XML_ATTRIBUTE_VALUE">
       <value>
-        <option name="FOREGROUND" value="79722C" />
+        <option name="FOREGROUND" value="79722c" />
       </value>
     </option>
     <option name="XML_COMMENT">
