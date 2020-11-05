@@ -4,7 +4,7 @@ plugins {
 }
 
 group 'tv.codely'
-version '2.0.1'
+version '2.0.2'
 
 sourceCompatibility = 1.8
 
@@ -32,6 +32,7 @@ patchPluginXml {
 
     changeNotes """
     <ul>
+    <li>2.0.2   Add correct theme name to Codely Light</li>
     <li>2.0.1   Add light (in beta mode) and normal theme</li>
     <li>2.0.0   More Punk to the theme + deprecate older versions. You need to select again the theme with this update</li>
     </ul>
