@@ -262,14 +262,14 @@
         <option name="FOREGROUND" value="fabd2f" />
       </value>
     </option>
-    <option name="CSS.COLOR" baseAttributes="" />
-    <option name="CSS.IMPORTANT" baseAttributes="" />
+    <option name="CSS.COLOR" baseAttributes="CSS.IDENT" />
+    <option name="CSS.IMPORTANT" baseAttributes="DEFAULT_KEYWORD" />
     <option name="CSS.PROPERTY_NAME">
       <value>
         <option name="FOREGROUND" value="fbf1c7" />
       </value>
     </option>
-    <option name="CSS.URL" baseAttributes="" />
+    <option name="CSS.URL" baseAttributes="HTML_ATTRIBUTE_VALUE" />
     <option name="CTRL_CLICKABLE">
       <value>
         <option name="FOREGROUND" value="458588" />
@@ -701,7 +701,12 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="JSP_DIRECTIVE_NAME" baseAttributes="" />
+    <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
+    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
+    <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
+    <option name="JSP_DIRECTIVE_NAME" baseAttributes="DEFAULT_KEYWORD" />
     <option name="KOTLIN_ANNOTATION">
       <value>
         <option name="FOREGROUND" value="83786e" />
