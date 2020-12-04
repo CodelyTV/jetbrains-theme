@@ -1,6 +1,6 @@
 {
   "name": "Codely Light",
-  "dark": true,
+  "dark": false,
   "author": "CodelyTV",
   "editorScheme": "/codely_light.xml",
   "colors": {
