@@ -79,8 +79,8 @@
     <option name="VCS_ANNOTATIONS_COLOR_4" value="5ca4a9" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="e6ebe0" />
     <option name="VISUAL_INDENT_GUIDE" value="303030" />
-    <option name="WHITESPACES" value="1e1e1e" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="86bac9" />
+    <option name="WHITESPACES" value="8c8888" />
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
