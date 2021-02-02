@@ -621,6 +621,7 @@
         <option name="FOREGROUND" value="458588" />
       </value>
     </option>
+    <option name="GO_BUILTIN_CONSTANT" baseAttributes="DEFAULT_CONSTANT" />
     <option name="GO_BUILTIN_FUNCTION_CALL">
       <value>
         <option name="FOREGROUND" value="fac149" />
@@ -635,6 +636,11 @@
     <option name="GO_EXPORTED_FUNCTION">
       <value>
         <option name="FOREGROUND" value="fac149" />
+      </value>
+    </option>
+    <option name="GO_BUILTIN_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="fb5245" />
       </value>
     </option>
     <option name="GO_EXPORTED_FUNCTION_CALL">
