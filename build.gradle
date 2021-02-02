@@ -21,12 +21,13 @@ dependencies {
 // See https://www.jetbrains.com/intellij-repository/releases
 intellij {
     version '201.6668.113'
-    sameSinceUntilBuild false
+    updateSinceUntilBuild false
 }
 
 // See http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html
 patchPluginXml {
     sinceBuild '201'
+    untilBuild '211.*'
     version project.version
 
     changeNotes """
