@@ -44,6 +44,7 @@
       "selectedBackgroundInactive": "bg2",
       "selectedForeground": "fg",
       "selectedInactiveBackground": "bg2",
+      "selectionInactiveForeground": "fg",
       "selectionBackground": "bg2",
       "selectionBackgroundInactive": "bg2",
       "selectionForeground": "fg",
