@@ -3,7 +3,7 @@
     <property name="ide">idea</property>
   </metaInfo>
   <colors>
-    <option name="ADDED_LINES_COLOR" value="3e5a3f" />
+    <option name="ADDED_LINES_COLOR" value="23473f" />
     <option name="ANNOTATIONS_COLOR" value="0" />
     <option name="CARET_COLOR" value="e35278" />
     <option name="CARET_ROW_COLOR" value="2a363e" />
@@ -40,7 +40,7 @@
     <option name="LINE_NUMBERS_COLOR" value="5d5d5d" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="ebdbb2" />
     <option name="METHOD_SEPARATORS_COLOR" value="1e2b32" />
-    <option name="MODIFIED_LINES_COLOR" value="415f69" />
+    <option name="MODIFIED_LINES_COLOR" value="284b51" />
     <option name="NOTIFICATION_BACKGROUND" value="2e5b95" />
     <option name="RECENT_LOCATIONS_SELECTION" value="121a1d" />
     <option name="RIGHT_MARGIN_COLOR" value="2a363e" />
@@ -82,7 +82,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_5" value="e6ebe0" />
     <option name="VISUAL_INDENT_GUIDE" value="2a363e" />
     <option name="WHITESPACES" value="1e2b32" />
-    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="86bac9" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="1d363b" />
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
