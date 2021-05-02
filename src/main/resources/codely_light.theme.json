@@ -4,38 +4,39 @@
   "author": "CodelyTV",
   "editorScheme": "/codely_light.xml",
   "colors": {
-    "bg": "#E8DAB8",
-    "bg0": "#E8DAB8",
-    "bg1": "#dbceae",
-    "bg2": "#c6b895",
-    "bg3": "#7a6f66",
-    "fg": "#908477",
+    "bg": "#FFFFFF",
+    "bg0": "#f3f3f3",
+    "bg1": "#f3f3f3",
+    "bg2": "#e7e7e7",
+    "bg3": "#e5e5e5",
+    "fg": "#42444D",
 
-    "red": "#8f1d1b",
-    "bright_red": "#8f1d1b",
+    "red": "#DC686B",
+    "bright_red": "#9f555a",
     "orange": "#d65d0e",
     "bright_orange": "#fe8019",
     "yellow": "#d79921",
     "bright_yellow": "#fabd2f",
     "green": "#98971a",
-    "bright_green": "#79722C",
+    "bright_green": "#F2CA73",
     "blue": "#458588",
     "bright_blue": "#83a598",
+    "classic_blue": "#4D8ACA",
     "purple": "#a96bc0",
     "bright_purple": "#eb64b9",
-    "aqua": "#689d6a",
-    "bright_aqua": "#51785c",
-    "dark_grey": "#E8DAB8"
+    "aqua": "#A2C699",
+    "bright_aqua": "#8ec07c",
+    "disabled": "#5D5D5D"
   },
   "ui": {
     "*": {
       "background": "bg",
       "borderColor": "bg1",
-      "Group.separatorColor": "dark_grey",
+      "Group.separatorColor": "bg1",
       "disabledBorderColor": "bg0",
       "foreground": "fg",
       "hoverBackground": "bg",
-      "infoForeground": "#3b3836",
+      "infoForeground": "#747781",
       "lightSelectionBackground": "bg2",
       "selectedBackground": "bg0",
       "selectedBackgroundInactive": "bg2",
@@ -46,36 +47,36 @@
       "selectionBackgroundInactive": "bg2",
       "selectionForeground": "fg",
       "selectionInactiveBackground": "bg1",
-      "separatorColor": "dark_grey",
+      "separatorColor": "bg1",
       "Borders.color": "bg1"
     },
     "CompletionPopup": {
       "selectionBackground": "bg0"
     },
-    "Notification.background": "dark_grey",
-    "ToolTip.Actions.background": "dark_grey",
-    "Notification.ToolWindow.informativeBackground": "dark_grey",
-    "ParameterInfo.background": "dark_grey",
+    "Notification.background": "bg",
+    "ToolTip.Actions.background": "bg",
+    "Notification.ToolWindow.informativeBackground": "bg",
+    "ParameterInfo.background": "bg",
     "Panel.background": "bg",
     "VersionControl.Log.Commit": {
       "currentBranchBackground": "bg"
     },
     "ActionButton": {
-      "hoverBackground": "#3e3836",
-      "pressedBackground": "#504945"
+      "hoverBackground": "bg1",
+      "pressedBackground": "bg2"
     },
     "Button": {
       "endBackground": "bg",
-      "endBorderColor": "#504945",
+      "endBorderColor": "bg2",
       "startBackground": "bg",
-      "startBorderColor": "#504945",
+      "startBorderColor": "bg2",
       "default": {
-        "endBackground": "#32302F",
-        "endBorderColor": "bg3",
+        "endBackground": "classic_blue",
+        "endBorderColor": "classic_blue",
         "focusedBorderColor": "bg",
-        "foreground": "fg",
-        "startBackground": "#32302F",
-        "startBorderColor": "bg3"
+        "foreground": "bg",
+        "startBackground": "classic_blue",
+        "startBorderColor": "classic_blue"
       }
     },
     "ComboBox": {
@@ -108,11 +109,11 @@
     },
     "FileColor": {
       "Blue": "#83a59844",
-      "Green": "#a6ac88",
+      "Green": "#83a598",
       "Orange": "#fe801988",
-      "Rose": "#8f1d1b44",
+      "Rose": "#DC686B44",
       "Violet": "#d3869b22",
-      "Yellow": "#262626"
+      "Yellow": "#f3f3f3"
     },
     "Link": {
       "activeForeground": "#83a598",
@@ -121,24 +122,24 @@
       "visitedForeground": "#83a598"
     },
     "List": {
-      "background": "dark_grey",
+      "background": "bg",
       "selectionBackground": "bg1",
-      "selectionForeground":"fg",
-      "selectionInactiveBackground": "dark_grey"
+      "selectionForeground": "fg",
+      "selectionInactiveBackground": "bg"
     },
-    "NavBar.borderColor": "dark_grey",
+    "NavBar.borderColor": "bg",
     "Menu": {
       "separatorColor": "bg0",
-      "background": "dark_grey"
+      "background": "bg"
     },
     "Popup": {
-      "Header.activeBackground": "dark_grey",
-      "Header.inactiveBackground": "dark_grey",
-      "separatorColor": "dark_grey",
+      "Header.activeBackground": "bg",
+      "Header.inactiveBackground": "bg",
+      "separatorColor": "bg3",
       "paintBorder": false
     },
     "MemoryIndicator": {
-      "allocatedBackground": "#1d1d1d",
+      "allocatedBackground": "bg",
       "usedBackground": "bg"
     },
     "ProgressBar": {
@@ -150,7 +151,7 @@
       "failedEndColor": "#180000"
     },
     "PopupMenu.borderWidth": 0,
-    "PopupMenu.background": "dark_grey",
+    "PopupMenu.background": "bg",
     "PopupMenuSeparator.stripeWidth": 1,
     "SettingsTree.rowHeight": "0",
     "TableHeader.cellBorder": "3,1,3,1",
@@ -166,8 +167,8 @@
   },
   "icons": {
     "ColorPalette": {
-      "Actions.Blue": "blue",
-      "Actions.Green": "aqua",
+      "Actions.Blue": "#99BFC6",
+      "Actions.Green": "#A2C699",
       "Actions.Grey": "#928374",
       "Actions.GreyInline.Dark": "fg",
       "Actions.Red": "bright_red",
@@ -185,7 +186,7 @@
       "Objects.Blue": "aqua",
       "Objects.Green": "aqua",
       "Objects.GreenAndroid": "aqua",
-      "Objects.Grey": "#928374FF",
+      "Objects.Grey": "bg3",
       "Objects.Pink": "bright_purple",
       "Objects.Purple": "purple",
       "Objects.Red": "red",
