@@ -4,7 +4,7 @@ plugins {
 }
 
 group 'tv.codely'
-version '2.1.2'
+version '2.1.3'
 
 sourceCompatibility = 1.8
 
@@ -27,11 +27,12 @@ intellij {
 // See http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html
 patchPluginXml {
     sinceBuild '201'
-    untilBuild '211.*'
+    untilBuild '212.*'
     version project.version
 
     changeNotes """
     <ul>
+    <li>2.1.3   Add support to 2021.2 IDEs</li>
     <li>2.1.2   Improve all themes</li>
     <li>2.1.1   Fix Codely Dark theme</li>
     <li>2.1.0   Add blue theme</li>
