@@ -18,7 +18,7 @@
     <option name="DIAGRAM_NOTE_BACKGROUND" value="a89984" />
     <option name="DIAGRAM_NOTE_BORDER" value="32302f" />
     <option name="DIAGRAM_REALIZATION_EDGE" value="fabd2f" />
-    <option name="DOCUMENTATION_COLOR" value="141414" />
+    <option name="DOCUMENTATION_COLOR" value="861414" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="7a725c" />
     <option name="FILESTATUS_MODIFIED" value="458588" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="458588" />
@@ -33,19 +33,20 @@
     <option name="HTML_TAG_TREE_LEVEL5" value="b16286" />
     <option name="HTML_TAG_TREE_LEVEL6" value="d65d0e" />
     <option name="HTML_TAG_TREE_LEVEL7" value="689d6a" />
-    <option name="INDENT_GUIDE" value="303030" />
+    <option name="INDENT_GUIDE" value="26282d" />
     <option name="INFORMATION_HINT" value="141414" />
+    <option name="LINE_NUMBERS_COLOR" value="313337" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="ebdbb2" />
+    <option name="LOOKUP_COLOR" value="191b1f" />
     <option name="METHOD_SEPARATORS_COLOR" value="202124" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
     <option name="NOTIFICATION_BACKGROUND" value="2e5b95" />
     <option name="RECENT_LOCATIONS_SELECTION" value="141414" />
-    <option name="RIGHT_MARGIN_COLOR" value="303030" />
-    <option name="SELECTED_INDENT_GUIDE" value="5c4e39" />
+    <option name="RIGHT_MARGIN_COLOR" value="26282d" />
     <option name="SELECTED_TEARLINE_COLOR" value="8ec07c" />
-    <option name="SELECTION_BACKGROUND" value="442b43" />
-    <option name="SEPARATOR_ABOVE_COLOR" value="303030" />
-    <option name="SEPARATOR_BELOW_COLOR" value="303030" />
+    <option name="SELECTION_BACKGROUND" value="5e325b" />
+    <option name="SEPARATOR_ABOVE_COLOR" value="26282d" />
+    <option name="SEPARATOR_BELOW_COLOR" value="26282d" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="" />
     <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="202124" />
@@ -77,10 +78,10 @@
     <option name="VCS_ANNOTATIONS_COLOR_3" value="9bc1bc" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="5ca4a9" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="e6ebe0" />
-    <option name="VISUAL_INDENT_GUIDE" value="303030" />
-    <option name="WHITESPACES" value="202124" />
+    <option name="VISUAL_INDENT_GUIDE" value="26282d" />
+    <option name="WHITESPACES" value="333541" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="86bac9" />
-    <option name="LINE_NUMBERS_COLOR" value="313337" />
+    <option name="SELECTED_INDENT_GUIDE" value="26282d" />
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
@@ -621,7 +622,12 @@
         <option name="FOREGROUND" value="458588" />
       </value>
     </option>
-    <option name="GO_BUILTIN_CONSTANT" baseAttributes="DEFAULT_CONSTANT" />
+    <option name="GO_BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="a89984" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="GO_BUILTIN_FUNCTION_CALL">
       <value>
         <option name="FOREGROUND" value="fac149" />
@@ -633,14 +639,20 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="GO_EXPORTED_FUNCTION">
-      <value>
-        <option name="FOREGROUND" value="fac149" />
-      </value>
-    </option>
     <option name="GO_BUILTIN_VARIABLE">
       <value>
         <option name="FOREGROUND" value="fb5245" />
+      </value>
+    </option>
+    <option name="GO_COMMENT_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="a1a1a1" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="GO_EXPORTED_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="fac149" />
       </value>
     </option>
     <option name="GO_EXPORTED_FUNCTION_CALL">
@@ -651,6 +663,12 @@
     <option name="GO_KEYWORD">
       <value>
         <option name="FOREGROUND" value="fb5245" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="GO_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="a89984" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -707,10 +725,7 @@
       </value>
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
-      <value>
-        <option name="EFFECT_COLOR" value="729b8f" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
+      <value />
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
       <value>
@@ -752,7 +767,7 @@
     <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
     <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
-    <option name="JSP_DIRECTIVE_NAME" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="JSP_DIRECTIVE_NAME" baseAttributes="" />
     <option name="KOTLIN_ANNOTATION">
       <value>
         <option name="FOREGROUND" value="83786e" />
@@ -1175,10 +1190,7 @@
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
-      <value>
-        <option name="EFFECT_COLOR" value="6d8a83" />
-        <option name="EFFECT_TYPE" value="4" />
-      </value>
+      <value />
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
@@ -1225,24 +1237,6 @@
     <option name="YAML_SCALAR_STRING">
       <value>
         <option name="FOREGROUND" value="8ec07c" />
-      </value>
-    </option>
-    <option name="GO_BLOCK_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="a89984" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="GO_COMMENT_REFERENCE">
-      <value>
-        <option name="FOREGROUND" value="a1a1a1" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="GO_LINE_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="a89984" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
   </attributes>
