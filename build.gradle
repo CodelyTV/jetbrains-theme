@@ -4,7 +4,7 @@ plugins {
 }
 
 group 'tv.codely'
-version '2.1.6'
+version '2.2.0'
 
 sourceCompatibility = 1.8
 
@@ -32,6 +32,7 @@ patchPluginXml {
 
     changeNotes """
     <ul>
+    <li>2.2.0   Add support to the experimental new ui</li>
     <li>2.1.6   Add support to 2022.2 IDEs</li>
     <li>2.1.5   Add support to 2022.1 IDEs</li>
     <li>2.1.4   Add support to 2021.3 IDEs</li>
