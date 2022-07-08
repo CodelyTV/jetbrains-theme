@@ -6,7 +6,7 @@
   "colors": {
     "bg": "#202124",
     "bg0": "#232429",
-    "bg1": "#2c2d35",
+    "bg1": "#26282d",
     "bg2": "#333541",
     "bg3": "#393b4e",
     "fg": "#EBDBB2",
@@ -25,7 +25,8 @@
     "bright_purple": "#eb64b9",
     "aqua": "#689d6a",
     "bright_aqua": "#8ec07c",
-    "dark_grey": "#191b1f"
+    "dark_grey": "#191b1f",
+    "darker_grey": "#0e0f11"
   },
   "ui": {
     "*": {
@@ -50,7 +51,8 @@
       "Borders.color": "bg1"
     },
     "CompletionPopup": {
-      "selectionBackground": "bg0"
+      "selectionBackground": "bg1",
+      "Advertiser.background": "dark_grey"
     },
     "Notification.background": "dark_grey",
     "ToolTip.Actions.background": "dark_grey",
@@ -108,7 +110,7 @@
     },
     "FileColor": {
       "Blue": "#83a59844",
-      "Green": "#303930",
+      "Green": "#222a22",
       "Orange": "#fe801988",
       "Rose": "#cc241d44",
       "Violet": "#d3869b22",
@@ -132,14 +134,17 @@
       "background": "dark_grey"
     },
     "Popup": {
+      "background": "dark_grey",
+      "Advertiser.background": "dark_grey",
+      "Toolbar.background": "dark_grey",
       "Header.activeBackground": "dark_grey",
       "Header.inactiveBackground": "dark_grey",
-      "separatorColor": "dark_grey",
+      "separatorColor": "bg1",
       "paintBorder": false
     },
     "MemoryIndicator": {
-      "allocatedBackground": "#1d1d1d",
-      "usedBackground": "bg"
+      "allocatedBackground": "bg",
+      "usedBackground": "dark_grey"
     },
     "ProgressBar": {
       "indeterminateStartColor": "bg",
