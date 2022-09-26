@@ -20,6 +20,9 @@
 1. Run the command `make` in the root of the project
 2. You'll have the theme located in `./build/distributions`
 
+## 🚀 Release
+To release a new version of the theme, simple [create a new GitHub release](https://github.com/CodelyTV/jetbrains-theme/releases/new)
+
 ## 🌅 Screenshots
 
 Screenshots can be found [here](docs/screenshots.md)
