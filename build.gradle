@@ -4,7 +4,7 @@ plugins {
 }
 
 group 'tv.codely'
-version '2.2.0'
+version = System.getenv("APP_VERSION")
 
 sourceCompatibility = 1.8
 
@@ -23,15 +23,18 @@ intellij {
     version '201.6668.113'
     updateSinceUntilBuild false
 }
-
+publishPlugin {
+    setToken(System.getenv("JETBRAINS_TOKEN"))
+}
 // See http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html
 patchPluginXml {
     sinceBuild '201'
-    untilBuild '222.*'
+    untilBuild '223.*'
     version project.version
 
     changeNotes """
     <ul>
+    <li>2.2.1   Add support to 2022.3 IDEs</li>
     <li>2.2.0   Add support to the experimental new ui</li>
     <li>2.1.6   Add support to 2022.2 IDEs</li>
     <li>2.1.5   Add support to 2022.1 IDEs</li>
