@@ -1,10 +1,10 @@
 <idea-plugin>
     <id>tv.codely.codelytv-theme</id>
-    <name>CodelyTV Theme</name>
-    <vendor email="soporte@codely.tv" url="https://codely.tv">CodelyTV</vendor>
+    <name>Codely Theme</name>
+    <vendor email="soporte@codely.com" url="https://codely.com">Codely</vendor>
 
     <description><![CDATA[
-    CodelyTV Theme.
+    Codely Theme.
 
     A modern, good-looking, productivity-increaser theme for all JetBrains IDEs
     ]]></description>
