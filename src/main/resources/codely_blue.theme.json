@@ -3,6 +3,7 @@
   "dark": true,
   "author": "CodelyTV",
   "editorScheme": "/codely_blue.xml",
+
   "colors": {
     "bg": "#1e2b32",
     "bg0": "#222d35",
@@ -48,12 +49,13 @@
       "selectionBackground": "bg2",
       "selectionBackgroundInactive": "bg2",
       "selectionForeground": "fg",
-      "selectionInactiveBackground": "bg1",
+      "selectionInactiveBackground": "obscure_blue",
       "separatorColor": "bg1",
       "Borders.color": "bg1"
     },
     "CompletionPopup": {
-      "selectionBackground": "bg0"
+      "Advertiser.background": "obscure_blue",
+      "selectionBackground": "obscure_blue"
     },
     "Notification.background": "dark_blue",
     "ToolTip.Actions.background": "dark_blue",
@@ -135,10 +137,14 @@
       "background": "dark_blue"
     },
     "Popup": {
+
+      "Advertiser.background": "obscure_blue",
       "Header.activeBackground": "dark_blue",
       "Header.inactiveBackground": "dark_blue",
-      "separatorColor": "dark_blue",
-      "paintBorder": false
+      "Toolbar.background": "obscure_blue",
+      "background": "obscure_blue",
+      "paintBorder": false,
+      "separatorColor": "dark_blue"
     },
     "MemoryIndicator": {
       "allocatedBackground": "dark_blue",

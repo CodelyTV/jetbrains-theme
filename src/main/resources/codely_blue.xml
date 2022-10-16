@@ -81,8 +81,9 @@
     <option name="VCS_ANNOTATIONS_COLOR_4" value="5ca4a9" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="e6ebe0" />
     <option name="VISUAL_INDENT_GUIDE" value="2a363e" />
-    <option name="WHITESPACES" value="5D5D5D" />
+    <option name="WHITESPACES" value="5d5d5d" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="1d363b" />
+    <option name="LOOKUP_COLOR" value="2a363e" />
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
@@ -721,10 +722,7 @@
       </value>
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
-      <value>
-        <option name="EFFECT_COLOR" value="729b8f" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
+      <value />
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
       <value>
@@ -766,7 +764,7 @@
     <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
     <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
-    <option name="JSP_DIRECTIVE_NAME" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="JSP_DIRECTIVE_NAME" baseAttributes="" />
     <option name="KOTLIN_ANNOTATION">
       <value>
         <option name="FOREGROUND" value="83786e" />
@@ -1189,10 +1187,7 @@
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
-      <value>
-        <option name="EFFECT_COLOR" value="6d8a83" />
-        <option name="EFFECT_TYPE" value="4" />
-      </value>
+      <value />
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
