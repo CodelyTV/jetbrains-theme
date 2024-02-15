@@ -153,6 +153,7 @@
     "PopupMenu.background": "dark_grey",
     "PopupMenuSeparator.stripeWidth": 1,
     "SettingsTree.rowHeight": "0",
+    "SearchOption.selectedBackground": "bg2",
     "TableHeader.cellBorder": "3,1,3,1",
     "Tree.rowHeight": "0",
     "WelcomeScreen": {
