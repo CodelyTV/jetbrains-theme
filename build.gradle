@@ -1,40 +1,43 @@
 plugins {
     id 'java'
-    id 'org.jetbrains.intellij' version '0.4.21'
+    id 'org.jetbrains.intellij' version '1.17.4'
 }
 
 group 'tv.codely'
 version = System.getenv("APP_VERSION")
 
-sourceCompatibility = 1.8
+sourceCompatibility = 11
 
 repositories {
     mavenCentral()
 }
 
 dependencies {
-    testImplementation group: 'junit', name: 'junit', version: '4.12'
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.10.1'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.10.1'
 }
 
 // See https://github.com/JetBrains/gradle-intellij-plugin/
 // See https://www.jetbrains.com/intellij-repository/snapshots
 // See https://www.jetbrains.com/intellij-repository/releases
 intellij {
-    version '201.6668.113'
-    updateSinceUntilBuild false
+    version.set('2023.3')
+    updateSinceUntilBuild = false
 }
+
 publishPlugin {
-    setToken(System.getenv("JETBRAINS_TOKEN"))
+    token = System.getenv("JETBRAINS_TOKEN")
 }
+
 // See http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html
 patchPluginXml {
-    sinceBuild '201'
-    untilBuild '243.*'
+    sinceBuild = '231'
+    untilBuild = '243.*'
     version project.version
 
-    changeNotes """
+    changeNotes = """
     <ul>
-    <li>2.2.8   Add support to 2024.3 IDEs</li>
+    <li>3.0.0   Add support to 2024.3 IDEs and remove support for 2023.3 or previous</li>
     <li>2.2.7   Add support to 2024.2 IDEs</li>
     <li>2.2.6   Add support to 2024.1 IDEs</li>
     <li>2.2.5   Add support to 2023.3 IDEs</li>
@@ -50,5 +53,9 @@ patchPluginXml {
     <li>2.1.2   Improve all themes</li>
     <li>2.1.1   Fix Codely Dark theme</li>
     </ul>
-      """
+    """
+}
+
+test {
+    useJUnitPlatform()
 }
