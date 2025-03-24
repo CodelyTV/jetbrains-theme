@@ -5,9 +5,9 @@
   <colors>
     <option name="ADDED_LINES_COLOR" value="23473f" />
     <option name="ANNOTATIONS_COLOR" value="0" />
-    <option name="CARET_COLOR" value="e35278" />
+    <option name="CARET_COLOR" value="3cff64" />
     <option name="CARET_ROW_COLOR" value="2a363e" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="1e2b32" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="1E2832" />
     <option name="DELETED_LINES_COLOR" value="9f4131" />
     <option name="DIAGRAM_ANNOTATION_EDGE" value="d79921" />
     <option name="DIAGRAM_DEFAULT_EDGE" value="32302f" />
@@ -26,7 +26,7 @@
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="99bfc6" />
     <option name="FILESTATUS_addedOutside" value="a2c699" />
     <option name="FILESTATUS_modifiedOutside" value="99bfc6" />
-    <option name="GUTTER_BACKGROUND" value="1e2b32" />
+    <option name="GUTTER_BACKGROUND" value="1E2832" />
     <option name="HTML_TAG_TREE_LEVEL0" value="dc686b" />
     <option name="HTML_TAG_TREE_LEVEL1" value="d79921" />
     <option name="HTML_TAG_TREE_LEVEL2" value="98971a" />
@@ -39,7 +39,7 @@
     <option name="INFORMATION_HINT" value="121a1d" />
     <option name="LINE_NUMBERS_COLOR" value="5d5d5d" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="ebdbb2" />
-    <option name="METHOD_SEPARATORS_COLOR" value="1e2b32" />
+    <option name="METHOD_SEPARATORS_COLOR" value="1E2832" />
     <option name="MODIFIED_LINES_COLOR" value="284b51" />
     <option name="NOTIFICATION_BACKGROUND" value="2e5b95" />
     <option name="RECENT_LOCATIONS_SELECTION" value="121a1d" />
@@ -51,28 +51,28 @@
     <option name="SEPARATOR_BELOW_COLOR" value="2a363e" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="" />
-    <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="1e2b32" />
+    <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="1E2832" />
     <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="" />
     <option name="ScrollBar.Mac.Transparent.thumbColor" value="" />
-    <option name="ScrollBar.Mac.Transparent.trackColor" value="1e2b32" />
+    <option name="ScrollBar.Mac.Transparent.trackColor" value="1E2832" />
     <option name="ScrollBar.Mac.hoverThumbBorderColor" value="" />
     <option name="ScrollBar.Mac.hoverThumbColor" value="" />
-    <option name="ScrollBar.Mac.hoverTrackColor" value="1e2b32" />
+    <option name="ScrollBar.Mac.hoverTrackColor" value="1E2832" />
     <option name="ScrollBar.Mac.thumbBorderColor" value="" />
     <option name="ScrollBar.Mac.thumbColor" value="" />
-    <option name="ScrollBar.Mac.trackColor" value="1e2b32" />
+    <option name="ScrollBar.Mac.trackColor" value="1E2832" />
     <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="" />
     <option name="ScrollBar.Transparent.hoverThumbColor" value="" />
-    <option name="ScrollBar.Transparent.hoverTrackColor" value="1e2b32" />
+    <option name="ScrollBar.Transparent.hoverTrackColor" value="1E2832" />
     <option name="ScrollBar.Transparent.thumbBorderColor" value="" />
     <option name="ScrollBar.Transparent.thumbColor" value="" />
-    <option name="ScrollBar.Transparent.trackColor" value="1e2b32" />
+    <option name="ScrollBar.Transparent.trackColor" value="1E2832" />
     <option name="ScrollBar.hoverThumbBorderColor" value="" />
     <option name="ScrollBar.hoverThumbColor" value="" />
-    <option name="ScrollBar.hoverTrackColor" value="1e2b32" />
+    <option name="ScrollBar.hoverTrackColor" value="1E2832" />
     <option name="ScrollBar.thumbBorderColor" value="" />
     <option name="ScrollBar.thumbColor" value="" />
-    <option name="ScrollBar.trackColor" value="1e2b32" />
+    <option name="ScrollBar.trackColor" value="1E2832" />
     <option name="TEARLINE_COLOR" value="665c54" />
     <option name="TOOLTIP" value="121a1d" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="c5574a" />
@@ -136,7 +136,7 @@
     <option name="BREADCRUMBS_HOVERED">
       <value>
         <option name="FOREGROUND" value="bbbbbb" />
-        <option name="BACKGROUND" value="1e2b32" />
+        <option name="BACKGROUND" value="1E2832" />
       </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
@@ -540,7 +540,7 @@
     </option>
     <option name="DELETED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="1e2b32" />
+        <option name="FOREGROUND" value="1E2832" />
         <option name="BACKGROUND" value="ebdbb2" />
       </value>
     </option>
@@ -751,7 +751,7 @@
     <option name="INLINE_PARAMETER_HINT_CURRENT">
       <value>
         <option name="FOREGROUND" value="dbdfb4" />
-        <option name="BACKGROUND" value="1e2b32" />
+        <option name="BACKGROUND" value="1E2832" />
       </value>
     </option>
     <option name="Implicit conversion">
@@ -1139,7 +1139,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="ebdbb2" />
-        <option name="BACKGROUND" value="1e2b32" />
+        <option name="BACKGROUND" value="1E2832" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
