@@ -171,7 +171,21 @@
       "background": "bg",
       "separatorColor": "bg"
     },
-    "Window.border": "bg1"
+    "Window.border": "bg1",
+    "JetBrainsAI": {
+      "Button.background": "bg",
+      "Button.foreground": "fg",
+      "Button.startBorderColor": "bg2",
+      "Button.endBorderColor": "bg2",
+      "Button.focusedBorderColor": "blue",
+      "CompletionPopup.foreground": "fg",
+      "Editor.background": "dark_blue",
+      "Editor.foreground": "fg",
+      "Notification.background": "dark_blue",
+      "Notification.borderColor": "bg1",
+      "Notification.foreground": "fg",
+      "ToolWindow.background": "dark_blue"
+    }
   },
   "icons": {
     "ColorPalette": {
