@@ -1,41 +1,42 @@
 plugins {
     id 'java'
-    id 'org.jetbrains.intellij' version '1.17.4'
+    id 'org.jetbrains.intellij.platform' version '2.5.0'
 }
 
 group 'tv.codely'
 version = System.getenv("APP_VERSION")
 
-sourceCompatibility = 11
+sourceCompatibility = 21
 
 repositories {
     mavenCentral()
+    intellijPlatform {
+        defaultRepositories()
+    }
 }
 
 dependencies {
     testImplementation 'org.junit.jupiter:junit-jupiter-api:5.11.3'
     testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.11.3'
+
+    intellijPlatform {
+        intellijIdeaCommunity('2025.1')
+    }
 }
 
 // See https://github.com/JetBrains/gradle-intellij-plugin/
+// See https://plugins.jetbrains.com/docs/intellij/tools-intellij-platform-gradle-plugin.html
 // See https://www.jetbrains.com/intellij-repository/snapshots
 // See https://www.jetbrains.com/intellij-repository/releases
-intellij {
-    version.set('2023.3')
-    updateSinceUntilBuild = false
-}
+intellijPlatform {
+    pluginConfiguration {
+        version = project.version
+        ideaVersion {
+            sinceBuild = '242'
+            untilBuild = '251.*'
+        }
 
-publishPlugin {
-    token = System.getenv("JETBRAINS_TOKEN")
-}
-
-// See http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html
-patchPluginXml {
-    sinceBuild = '231'
-    untilBuild = '251.*'
-    version project.version
-
-    changeNotes = """
+        changeNotes = """
     <ul>
     <li>3.3.0   Add JetBrains AI compatibility to themes</li>
     <li>3.2.0   Improve caret colors and blue theme</li>
@@ -57,6 +58,11 @@ patchPluginXml {
     <li>2.1.1   Fix Codely Dark theme</li>
     </ul>
     """
+    }
+
+    publishing {
+        token = System.getenv("JETBRAINS_TOKEN")
+    }
 }
 
 test {
