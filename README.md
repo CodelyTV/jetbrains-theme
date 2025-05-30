@@ -27,6 +27,9 @@ To release a new version of the theme, simple [create a new GitHub release](http
 ## 📄 Where to find an specific key to modify
 
 * https://jetbrains.design/intellij/principles/platform_theme_colors/#UI-components
+* https://plugins.jetbrains.com/docs/intellij/internal-ui-laf-defaults.html#prototyping-the-color-of-ui-controls
+* https://plugins.jetbrains.com/docs/intellij/internal-ui-inspector.html
+* https://github.com/JetBrains/intellij-community/tree/master/platform/platform-resources/src/themes/metadata
 
 ## 🌅 Screenshots
 
