@@ -131,6 +131,9 @@
       "separatorColor": "bg0",
       "background": "dark_grey"
     },
+    "MenuItem": {
+      "background": "dark_grey"
+    },
     "Popup": {
       "Header.activeBackground": "dark_grey",
       "Header.inactiveBackground": "dark_grey",

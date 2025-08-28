@@ -131,6 +131,9 @@
       "separatorColor": "bg0",
       "background": "dark_blue"
     },
+    "MenuItem": {
+      "background": "dark_blue"
+    },
     "CompletionPopup": {
       "Advertiser.background": "obscure_blue",
       "selectionBackground": "obscure_blue"

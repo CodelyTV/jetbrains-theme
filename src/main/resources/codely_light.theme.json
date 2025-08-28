@@ -132,6 +132,9 @@
       "separatorColor": "bg0",
       "background": "bg"
     },
+    "MenuItem": {
+      "background": "bg"
+    },
     "Popup": {
       "Header.activeBackground": "bg",
       "Header.inactiveBackground": "bg",
