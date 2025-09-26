@@ -33,11 +33,12 @@ intellijPlatform {
         version = project.version
         ideaVersion {
             sinceBuild = '242'
-            untilBuild = '252.*'
+            untilBuild = '253.*'
         }
 
         changeNotes = """
     <ul>
+    <li>3.5.0   Add support to 2025.3</li>
     <li>3.4.0   Add support to 2025.2</li>
     <li>3.3.0   Add JetBrains AI compatibility to themes</li>
     <li>3.2.0   Improve caret colors and blue theme</li>
